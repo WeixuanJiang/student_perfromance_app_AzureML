@@ -5,5 +5,5 @@ The dataset is from Kaggle: https://www.kaggle.com/dipam7/student-grade-predicti
 
 For run this app:
 
-    venv/Scripts/activate
+    pip install -r requirements.txt
     streamlit app. run
